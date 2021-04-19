@@ -5,5 +5,5 @@ Aquest repositori està dedicat a la segona pràctica de l'assignatura Visualitz
 - El codi Python mitjançant el qual s'ha realitzat l'anàlisi de dades inicial.
 - El conjunt de dades original utilitzat en la pràctica.
 - El conjunt de dades creat utilitzant el llenguatge de programació Python amb els atributs desitjats
-- L'arxiu .twb mitjançant el qual s'ha realitzat el dashboard presentat a la pràctica
+- L'arxiu .twb mitjançant el qual s'ha realitzat el dashboard presentat a la pràctica comprimit en un arxiu .rar per facilitar la descarrega
 - Una còpia de l'arxiu pdf presentat en el registre d'activitats
